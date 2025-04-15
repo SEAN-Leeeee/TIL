@@ -7,3 +7,4 @@
 
 
 JSON
+- [No serializer found for class](./TIL/No serializer found for class.md)
